@@ -1,0 +1,28 @@
+/* App.css */
+
+/* Toast container position and style */
+.Toastify__toast-container {
+    font-size: 14px;
+    /* Adjust the font size */
+}
+
+/* Toast notification styling */
+.Toastify__toast--success {
+    background-color: white;
+    /* White background */
+    color: black;
+    /* Dark text color */
+    border: 1px solid #ddd;
+    /* Optional: Add a border for better visibility */
+}
+
+/* Optional: Customize toast container to match the design */
+.Toastify__toast-container--bottom-right {
+    margin: 16px;
+    /* Adjust the margin around the container */
+}
+
+.Toastify__toast-body {
+    padding: 10px;
+    /* Adjust padding inside the toast */
+}

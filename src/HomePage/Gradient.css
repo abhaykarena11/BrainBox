@@ -1,0 +1,18 @@
+.gradientStyleHero {
+    width: 100%;
+    height: 100vh;
+    background: linear-gradient(to right, #429ad8, #1668aa);
+}
+
+.gradientStyleNav {
+
+    background: linear-gradient(to right, #53a7e8, #184c76);
+}
+
+.option-color {
+    background-color: #2169a4;
+}
+
+.hover-color:hover {
+    background-color: #184c76;
+}
